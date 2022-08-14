@@ -8,6 +8,6 @@ Personal research into the SARIMA model for Time Series Forecasting. The Noteboo
 - Autoregressive Integrated Moving Average model (ARIMA)
 - Seasonal Autoregressive Integrated Moving Average model (SARIMA)
 
-SARIMA's mathematical formula:
+Example SARIMA's mathematical equation for a (1,1,1)(1,1,1)4 model:
 
 ![SARIMA model](https://i.stack.imgur.com/NUA6V.png 'SARIMA model')
